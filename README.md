@@ -6,7 +6,7 @@
 
 🌟 Here's what I'm all about:
 
-- 🌐 Web Development Enthusiast
+- 🌐 Software Development and web Development Enthusiast
 - 📚 Lifelong Learner
 - 💡 Always up for a coding challenge
 - 🤝 Open to collaboration and learning from others
