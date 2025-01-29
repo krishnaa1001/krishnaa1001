@@ -2,7 +2,7 @@
 
 🚀 Aspiring Developer | 🌱 Learning and Growing | 💻 Passion for Code
 
-🔭 I'm a recent graduate eager to embark on my journey in the world of software development. My love for problem-solving and coding led me here.
+🔭 I'm a  graduate eager to embark on my journey in the world of software development. My love for problem-solving and coding led me here.
 
 🌟 Here's what I'm all about:
 
